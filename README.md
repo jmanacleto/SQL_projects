@@ -7,6 +7,8 @@ Este projeto apresenta um sistema de gerenciamento de dados em SQL. O banco de d
 Instruções de Uso:
 
 1 - Importe o esquema do banco de dados no seu servidor SQL.
+
 2 - Explore as tabelas para compreender a estrutura do banco de dados.
+
 3 - Utilize as consultas SQL para interagir com os dados de maneira eficiente.
 
